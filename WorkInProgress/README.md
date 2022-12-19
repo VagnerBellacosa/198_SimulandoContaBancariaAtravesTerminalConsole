@@ -34,7 +34,10 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Pré-requisitos](https://web.dio.me/lab/desafio-banco-terminal/learning/87b610ba-16af-4c26-9b9d-9b7a0db493d5)[Apresentação do desafio proposto e iniciando o projeto no VS Code](https://web.dio.me/lab/desafio-banco-terminal/learning/9788fec4-4345-454a-9c93-47babc3da283)[Desafio Proposto](https://web.dio.me/lab/desafio-banco-terminal/learning/0f2adc2e-d20f-4316-a350-09d8024c6828)[Materiais de apoio](https://web.dio.me/lab/desafio-banco-terminal/learning/87e82551-ae41-4170-b1da-040108befac5)
+- [Pré-requisitos](https://web.dio.me/lab/desafio-banco-terminal/learning/87b610ba-16af-4c26-9b9d-9b7a0db493d5)
+- [Apresentação do desafio proposto e iniciando o projeto no VS Code](https://web.dio.me/lab/desafio-banco-terminal/learning/9788fec4-4345-454a-9c93-47babc3da283)
+- [Desafio Proposto](https://web.dio.me/lab/desafio-banco-terminal/learning/0f2adc2e-d20f-4316-a350-09d8024c6828)
+- [Materiais de apoio](https://web.dio.me/lab/desafio-banco-terminal/learning/87e82551-ae41-4170-b1da-040108befac5)
 
 
 
